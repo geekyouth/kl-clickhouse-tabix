@@ -1,12 +1,2 @@
-bower_components
-node_modules
-.tmp
-coverage
-help
-manual/site
-# IntelliJ project files
-.idea
+*.idea/
 *.iml
-out
-gen
-#build
