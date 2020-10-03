@@ -2,6 +2,8 @@
 
 ![Tabix Logo](http://ui.tabix.io/assets/images/logo2.png?123)
 
+[备用线路：https://kl-clickhouse-tabix.vercel.app/#!/login](https://kl-clickhouse-tabix.vercel.app/#!/login)
+
 Tabix 用于操作和监控 Clickhouse 数据库，ch 优先推荐的产品，可以部署在github pages 云托管，免安装。
 
 ---
